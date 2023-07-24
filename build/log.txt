@@ -1,0 +1,4 @@
+2023-06-26 15:38:32	INFOtest macro
+2023-06-26 15:38:32	ERRORtest macro fmt error aa
+2023-06-26 15:38:43	INFOtest macro
+2023-06-26 15:38:43	ERRORtest macro fmt error aa
